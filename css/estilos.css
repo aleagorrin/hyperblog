@@ -5,7 +5,7 @@ background: black;
 text-align: center;
 font-family: Arial, Helvetica, sans-serif
 font-size: 16px;
-margin: 0;
+margin: 10;
 padding: 0;
 
 }
@@ -33,24 +33,24 @@ padding: 0;
 padding: 0 0 0 1em;
 font-weight: normal;
 font-size: 0.8em; 
-<<<<<<< HEAD
-=======
-}
-
-#footer
-
-{
-text-align: center;
-color:white;
-background: rgb(63, 61, 61);
-padding: 0.7em;
->>>>>>> footer
 }
 
 #container
 
 {
 
-font-size: 20px;
+font-size: 23px;
 
+}
+
+    #footer
+{
+    background-color: darkred;
+    border: 4px;
+    background-size: 3em;
+    text-align: center;
+    text-decoration:grey;
+    font-size: 1.5em;
+    font-style: initial;
+    
 }
