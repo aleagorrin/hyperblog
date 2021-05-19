@@ -1,0 +1,50 @@
+body
+{
+
+   color:rgb(0, 0, 0);
+text-align: center;
+<<<<<<< HEAD
+font-family: 'Courier New', Courier, monospace;
+font-size: 16px;
+margin: 0;
+padding: 0;
+
+=======
+font-family: "Arial";
+}
+
+
+#cabecera
+{
+    background: darkblue;
+    color: #ffff;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 0px 2px 50px 0px (0,0,0,0,5);
+>>>>>>> cabecera
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ff0;
+    margin: 0 auto;
+}
+
+#cabecera #tagline
+
+{
+padding: 0 0 0 1em;
+font-weight: normal;
+front-size: 0.8em; 
+}
+
+#container
+
+{
+
+font-size: 20px;
+
+}
